@@ -1,4 +1,3 @@
-package GS1
 
 import java.util.Scanner;
 

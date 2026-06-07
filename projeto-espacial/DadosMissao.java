@@ -1,5 +1,3 @@
-package GS1
-
 public class DadosMissao {
 
     // Informações críticas da missão

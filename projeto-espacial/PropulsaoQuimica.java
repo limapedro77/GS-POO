@@ -1,4 +1,3 @@
-package GS1
 
 public class PropulsaoQuimica extends SistemaPropulsao {
     private String tipoCombustivel;

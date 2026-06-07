@@ -1,4 +1,3 @@
-package GS1
 
 public class SensorPressao implements Sensor {
 

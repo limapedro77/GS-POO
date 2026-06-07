@@ -1,4 +1,3 @@
-package GS1
 
 // Estrutura comum para qualquer sistema de propulsão
 public abstract class SistemaPropulsao {

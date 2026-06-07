@@ -1,4 +1,3 @@
-package GS1
 
 // Classe base para qualquer componente monitorado da estação
 public abstract class ComponenteEspacial {

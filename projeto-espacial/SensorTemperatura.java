@@ -1,4 +1,3 @@
-package GS1
 
 public class SensorTemperatura implements Sensor {
     @Override
